@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xx",
+    " yx",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "tutorial:sapphire"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "tutorial:sapphire_axe",
+    "count": 1
+  }
+}
